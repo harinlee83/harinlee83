@@ -1,3 +1,3 @@
 ### Hi there 👋 I'm Harin
 
-🌱 Learning Python and HTML/CSS
+🌱 Learning Python, HTML/CSS, and Javascript
