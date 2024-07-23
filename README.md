@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Harin, a passionate Software Engineer with a love and curiosity for all things software! I enjoy diving into full-stack, mobile, and web development, and I'm currently exploring the exciting world of AI/ML applications.
+I'm Harin, a passionate Software Engineer with a love and curiosity for all things software! I enjoy diving into full-stack, and have worked with mobile and web development. I'm currently exploring the exciting world of AI/ML applications.
 
 ## 🎓 Education
 
