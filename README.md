@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my personal GitHub.
+
 I'm Harin, a passionate Software Engineer with a love and curiosity for all things software! I enjoy diving into full-stack, and have worked with mobile and web development. I'm currently exploring the exciting world of AI/ML applications.
 
 ## 🎓 Education
@@ -10,6 +12,10 @@ I'm Harin, a passionate Software Engineer with a love and curiosity for all thin
 ## 🌱 Current Role
 
 - **Full-Stack Software Engineer** in Bioinformatics at **Cell Signaling Technology**
+
+  <a href="https://github.com/your-work-github" target="_blank">
+    <img src="https://img.shields.io/badge/-Go_to_my_Work_GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Go to My Work GitHub" style="height: 30px;"/>
+  </a>
 
 ## 🚀 Skills & Technologies
 
