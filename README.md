@@ -13,7 +13,7 @@ I'm Harin, a passionate Software Engineer with a love and curiosity for all thin
 
 - **Full-Stack Software Engineer** in Bioinformatics at **Cell Signaling Technology**
 
-  <a href="https://github.com/your-work-github" target="_blank">
+  <a href="https://github.com/harinlee0803" target="_blank">
     <img src="https://img.shields.io/badge/-Go_to_my_Work_GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Go to My Work GitHub" style="height: 30px;"/>
   </a>
 
