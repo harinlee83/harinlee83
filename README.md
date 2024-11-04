@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-Welcome to my personal GitHub.
-
-I'm Harin, a passionate Software Engineer with a love and curiosity for all things software! I enjoy diving into full-stack, and have worked with mobile and web development. I'm currently exploring the exciting world of AI/ML applications.
+Welcome to my personal GitHub!
 
 ## 🎓 Education
 
-- **Bachelor of Science in Biomedical Engineering** from **Boston University**
 - **Masters in Computer and Information Technology** (Pursuing) at the **University of Pennsylvania**
+- **Bachelor of Science in Biomedical Engineering** from **Boston University**
 
 ## 🌱 Current Role
 
